@@ -1,0 +1,20 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.openqa.selenium.support.ui.ISelect"><rhs name\="org.openqa.selenium.support.ui.Select"/></lhs><lhs name\="org.openqa.selenium.support.ui.Select"><rhs name\="org.openqa.selenium.support.ui.Select"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="org.apache.poi.ss.usermodel.Workbook"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="java.io.Closeable"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="org.apache.poi.POIXMLDocument"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="org.apache.poi.POIXMLDocumentPart"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="learnReadExcel.ReadExcel"><rhs name\="learnReadExcel.ReadExcel"/></lhs><lhs name\="advanced.ExtendedReports"><rhs name\="advanced.ExtendedReports"/></lhs><lhs name\="com.relevantcodes.extentreports.Report"><rhs name\="com.relevantcodes.extentreports.ExtentReports"/></lhs><lhs name\="com.relevantcodes.extentreports.LogSettings"><rhs name\="com.relevantcodes.extentreports.ExtentReports"/></lhs><lhs name\="com.relevantcodes.extentreports.ExtentReports"><rhs name\="com.relevantcodes.extentreports.ExtentReports"/></lhs><lhs name\="wdMethods.ProjectMethods"><rhs name\="pages.MyLeadsPage"/><rhs name\="pages.DuplicateLeadPage"/></lhs><lhs name\="wdMethods.SeMethods"><rhs name\="pages.MyLeadsPage"/><rhs name\="pages.DuplicateLeadPage"/></lhs><lhs name\="wdMethods.WdMethods"><rhs name\="pages.MyLeadsPage"/><rhs name\="pages.DuplicateLeadPage"/></lhs><lhs name\="utils.Reporter"><rhs name\="pages.MyLeadsPage"/><rhs name\="pages.DuplicateLeadPage"/></lhs><lhs name\="pages.MyLeadsPage"><rhs name\="pages.MyLeadsPage"/></lhs><lhs name\="pages.DuplicateLeadPage"><rhs name\="pages.DuplicateLeadPage"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="org.openqa.selenium.Keys"/></lhs><lhs name\="programming.FactorsAndPrimeFactors"><rhs name\="programming.FactorsAndPrimeFactors"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.IOException"><rhs name\="java.io.FileNotFoundException"/><rhs name\="java.io.IOException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.io.FileNotFoundException"/><rhs name\="java.io.IOException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.io.FileNotFoundException"/><rhs name\="java.io.IOException"/></lhs><lhs name\="java.io.FileNotFoundException"><rhs name\="java.io.FileNotFoundException"/></lhs></history>
+content_assist_number_of_computers=13
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

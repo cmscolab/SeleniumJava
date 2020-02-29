@@ -1,0 +1,18 @@
+package advanced;
+
+
+
+import org.testng.annotations.DataProvider;
+
+import wdMethodsold.ProjectMethods;
+
+public class CreateLead{
+	final static int a[] = new int[5];
+	
+	public static void main(String[] args){
+		final int a = new CreateLead().a[5];
+		if (a<=10)
+			System.out.println("hellojava");
+		}
+
+}

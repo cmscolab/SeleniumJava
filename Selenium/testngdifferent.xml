@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">	
+  <test name="Test1">
+  		<parameter name = "url" value = "http://leaftaps.com/opentaps/"></parameter>
+		<parameter name = "browser" value = "chrome"></parameter>
+		<parameter name = "username" value = "DemoSalesManager"></parameter>
+		<parameter name = "password" value = "crmsfa"></parameter>
+    <classes>
+      <class name="advanced.FindandDeleteLeads"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+  		<parameter name = "url" value = "http://leaftaps.com/opentaps/"></parameter>
+		<parameter name = "browser" value = "chrome"></parameter>
+		<parameter name = "username" value = "DemoCSR"></parameter>
+		<parameter name = "password" value = "crmsfa"></parameter>	
+    <classes>
+      <class name="advanced.MergeLeads"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

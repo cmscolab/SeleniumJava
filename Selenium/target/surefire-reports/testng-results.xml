@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteCreateEdit" duration-ms="42301" started-at="2017-12-17T09:44:56Z" finished-at="2017-12-17T09:45:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42301" started-at="2017-12-17T09:44:56Z" finished-at="2017-12-17T09:45:38Z">
+      <class name="testcases.CreateLead">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.CreateLead@c4c815]" name="beforeSuite" is-config="true" duration-ms="1672" started-at="2017-12-17T15:14:54Z" finished-at="2017-12-17T15:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.CreateLead@c4c815]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-12-17T15:14:56Z" finished-at="2017-12-17T15:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.CreateLead@c4c815]" name="setData" is-config="true" duration-ms="0" started-at="2017-12-17T15:14:56Z" finished-at="2017-12-17T15:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.CreateLead@c4c815]" name="beforeMethod" is-config="true" duration-ms="11509" started-at="2017-12-17T15:14:57Z" finished-at="2017-12-17T15:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.CreateLead@c4c815]" name="createLead" duration-ms="27029" started-at="2017-12-17T15:15:08Z" data-provider="fetchData" finished-at="2017-12-17T15:15:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Accenture]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rashmi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[B S]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7829112971]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[BWP - Botswana Pula]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.CreateLead@c4c815]" name="afterMethod" is-config="true" duration-ms="2435" started-at="2017-12-17T15:15:35Z" finished-at="2017-12-17T15:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.CreateLead@c4c815]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-12-17T15:15:38Z" finished-at="2017-12-17T15:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.CreateLead@c4c815]" name="afterSuite" is-config="true" duration-ms="607" started-at="2017-12-17T15:15:38Z" finished-at="2017-12-17T15:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- SuiteCreateEdit -->
+</testng-results>
